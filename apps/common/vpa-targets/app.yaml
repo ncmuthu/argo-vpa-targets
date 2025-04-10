@@ -1,0 +1,5 @@
+chart: vpa-targets
+targetRevision: 0.1.13
+enabled: 'true'
+repoURL: 'https://art-toucan.autodesk.com:443/artifactory/k8s-core-caas-helm/'
+namespace: vpa
